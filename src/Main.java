@@ -62,7 +62,9 @@ public class Main {
             System.out.printf("%d x %d = %d%n", 2, vrr, 2 * vrr);
         }
     }
+
 }
+
 
 
 
